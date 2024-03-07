@@ -2,7 +2,7 @@ package model.entities;
 
 import model.enums.Color;
 
-public class Triangle extends Shape{
+public class Triangle extends AbstractShape{
     private Double height;
     private Double width;
 
